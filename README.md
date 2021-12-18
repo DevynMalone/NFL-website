@@ -1,2 +1,2 @@
 # ScreenShot
-![image](components.png)
+![image](public/images/components.png)
